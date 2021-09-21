@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "infra-tf-20210921-student11xin",
+  "private_key_id": "fa590b1c6c97dd81ecae245d45c2958835bb91ec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDH3Jz57lQCE3z0\nTAbxJA5l2onunZJmvQLx4bbURiX7mHJX7iCOoIr6vUFBL4bgJHN+rviC1ByFSr3m\nCYTT/97/2jPPpkj54uNM5GAPx7LdJLsTQGKHqsdE+X3TXavmwn23gCA1SBaO7kbb\nzI9k1stea1SAE5RNN4s2SJCUfmt47c6S4ES9PoUSKLFQBKl7PI5dyAO+n/uXeG1g\narHD+gIfxoK6+ptztG3W2sMCjEWsTMGiXYYZ4YD2yM+0VA/myGC0AV5YpHqw7Oe5\npTmpwdhxiJP71SvIFQ/34TXpeGQpKK/CBdJWgreY+2uARe/bM0z5d/XbAaRcEKKR\nlYBktXnFAgMBAAECggEAEJx2c5Nqag3Cme9juFEd3TtPsYRpMZ7OCtqOvo/iAkpG\nXqaNEC2pv3NRZCCWHjUJYGMchoson695nw/1eUVP/IXfPof8ksBX0gE9NrKLXDP8\nVHpKdiosi8AMxC+J5REPL9w3URZfwZtuSkBzPpdXqc5T5J07+zr9mBJp6d2kAxXj\nNsBKO2T6Tm4GyKWHq48lfyXe9IvAWhZbSEyqR3GXiD5JNEZuNnnYeX8qoNtytAcW\naeMpGO1HYCXapboVtwrCZM0Rom6VMIO4SCyYeiGP4awNCV1EAR202QEE7zo+1wMK\njUMbQK0YeXGp3pzBjHOlyEiGzzDAFjBj4YerC8a4wQKBgQDiYWb6LeKGjAO4kEv1\n7IQJMgtJRjbNWV/9nJLUv8L6Gey7qQ1JTFynhZz6XHIbGdlIGg5irWIIzptnb/Ld\nGgVv9tXCACuHROkBXxYbEat1Dz3WUNgEXWwiK26z73epODu6Q+ddnSLla8ehKn12\nycr65Wb4B1B3SpvCoTPXcNbt9QKBgQDiAvf/5PsA8uIJNrThME9JzFA0UUZoGuhK\n+0G5MtfoZpTzdQRHuXU+tgXNiRnDk4q32nt1YoQ/vSa+PyzqXpM3cfOFbxGGeaYl\nznZ2NjwsnrAhSO+l6xKtSJOA4k6mfBfjknA1eXy3yP7O+ZcF6YsusR7N/vOGUiae\nhWMvEKSqkQKBgEJPn7d2y1z4FHryoZ2Gy2JaK14qWBEsteZ2/7eb+EQEZgjOSxsG\naDmV9NaNT8tKdhAducsD2KyVwIW7EBvd7GvQlOq/3ABCmjIRpUsGkP+4GDf39F7K\n8srLiCDi611BIJW+ID6WscscGBzIcnniQDfgDJpoohRfYWLQj3vzDLIlAoGBAL87\ne9ONT8RxvkfFfi67zZrHwWVDD6uueLZY+jdVidIeWhHVBRYbGdVB9o7+XkpZYJpH\nxwZ/oR69UTbQBZUZCL91L3PLkqyR6b87fohvQ2MNskG3kO52hIsSSZxX3+yGO0BW\n+5KDhL+M1e0SynI6NYYAX+w0uKECiaK/gjikgG/BAoGAWf4MKSGKOb1g3juf2K/3\nqyRoPgC5jbZH1tPZv30YhkFYaxWgTwagVg5pP9PQXfb1E12TRBBgFWG7kKkNfG2O\nxkWv03dDNtoIW1eVbM0VQVHfdQr7Tj8xDsfU8ZKhd6Fjq+c+rmVSogcDCkLUaO0O\nxnC6nDPtILoR4t9/L6aiFtU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "jenkins@infra-tf-20210921-student11xin.iam.gserviceaccount.com",
+  "client_id": "111181115727390407579",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jenkins%40infra-tf-20210921-student11xin.iam.gserviceaccount.com"
+}

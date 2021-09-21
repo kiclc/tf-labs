@@ -1,7 +1,7 @@
 # GCP variables
 variable "region" {
   description = "Region to deploy demo VM"
-  default     = "us-west2"
+  default     = "us-east1"
 }
 variable "number_of_demo_instances" {
   description = "How many VMs do you want?"
